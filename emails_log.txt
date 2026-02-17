@@ -1,0 +1,64 @@
+
+=== EMAIL SIMULÉ (2025-11-24 12:32:45) ===
+À : test123@gmail.com
+Sujet : ✅ Réservation CONFIRMÉE - CM CAFÉ
+Message :
+Bonjour Test,
+
+Votre réservation au CM CAFÉ est CONFIRMÉE !
+
+📅 Date : 2025-11-01
+🕐 Heure : 10:40:00
+👥 Personnes : 1
+📱 Téléphone : 0671358455
+
+Votre message : fr
+
+Nous vous attendons avec plaisir !
+
+Cordialement,
+L'équipe CM CAFÉ
+25 Rue de la Convention - 75015 PARIS
+01.40.59.86.03
+======================================
+
+=== EMAIL SIMULÉ (2025-11-24 12:34:44) ===
+À : test123@gmail.com
+Sujet : ❌ Réservation REFUSÉE - CM CAFÉ
+Message :
+Bonjour Test,
+
+Nous sommes désolés de vous informer que votre réservation au CM CAFÉ a été refusée.
+
+📅 Date demandée : 2025-11-28
+🕐 Heure demandée : 19:40:00
+👥 Personnes : 1
+
+⚠️ Motif du refus : Complet
+
+N'hésitez pas à nous contacter au 01.40.59.86.03 pour une autre date.
+
+Cordialement,
+L'équipe CM CAFÉ
+=====================================
+
+=== EMAIL SIMULÉ (2025-11-24 12:39:40) ===
+À : test123@gmail.com
+Sujet : ✅ Réservation CONFIRMÉE - CM CAFÉ
+Message :
+Bonjour paul,
+
+Votre réservation au CM CAFÉ est CONFIRMÉE !
+
+📅 Date : 2025-12-01
+🕐 Heure : 22:40:00
+👥 Personnes : 1
+📱 Téléphone : 0671358455
+
+Nous vous attendons avec plaisir !
+
+Cordialement,
+L'équipe CM CAFÉ
+25 Rue de la Convention - 75015 PARIS
+01.40.59.86.03
+======================================
